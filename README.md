@@ -1,27 +1,25 @@
 # Flask Ready-to-Start Framework
 
-This Git repository contains a Flask-based Ready-to-Start Framework, designed to provide a solid foundation for developing web applications using Flask and various rendering technologies. The repository consists of three main folders, each catering to different aspects of web development using flask. Below is an overview of each folder:
+This Git repository contains 3 Flask based Ready-to-Start-Coding Framework
 
-## 1. api_and_html_css_jquery_rendering
+## 1. only_api_development
 
-This folder contains code related to building web applications that render HTML, CSS, and use jQuery for client-side interactions. It serves as an introductory approach to building web interfaces with Flask while utilizing traditional web technologies for rendering.
+Contains a python server code with a get method and post method
 
-## 2. api_and_react_rendering
+## 2. api_and_html_css_jquery_rendering
 
-In this folder, you'll find code that demonstrates integrating React with Flask to create dynamic and interactive user interfaces. This approach leverages the power of React components to build modern, single-page applications that communicate with the Flask backend through APIs.
+Contains a python server code that renders a HTML fIle with CSS, and use jQuery for client-side interactions.
 
-## 3. only_api_development
+## 3. api_and_react_rendering
 
-The `only_api_development` folder focuses solely on backend development with Flask. It provides a solid foundation for creating APIs and backend services that can be used by frontend applications built using various technologies.
+Contains a python server code that renders a react build with porper path nevigation that react requires.
 
 ## Getting Started
-
-To get started with the Flask Ready-to-Start Framework, follow these steps:
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/abhishek-bhattacharjee-job/flask_ready_to_start_framework.git
 ```
 
 2. Navigate to the folder that corresponds to your preferred development approach (i.e., `api_and_html_css_jquery_rendering`, `api_and_react_rendering`, or `only_api_development`).
