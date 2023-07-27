@@ -24,11 +24,16 @@ git clone https://github.com/abhishek-bhattacharjee-job/flask_ready_to_start_fra
 
 2. Navigate to the folder that corresponds to your preferred development approach (i.e., `api_and_html_css_jquery_rendering`, `api_and_react_rendering`, or `only_api_development`).
 
+```bash
+cd only_api_development
+cd api_and_html_css_jquery_rendering
+cd api_and_react_rendering
+```
 3. Set up a virtual environment and install the required dependencies:
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+python -m venv abhishek_venv_1
+source abhishek_venv_1/bin/activate  # On Windows, use ".\abhishek_venv_1\Scripts\activate"
 pip install -r requirements.txt
 ```
 
@@ -38,13 +43,8 @@ pip install -r requirements.txt
 python app.py
 ```
 
-5. Open your web browser and access the application at `http://localhost:5000/`.
+5. Open your web browser and access the application at `http://localhost:8000/`.
 
-Feel free to explore and modify the code in the respective folders to suit your project requirements.
-
-## Contributing
-
-If you'd like to contribute to this project, we welcome your pull requests! Please follow the standard GitHub workflow for making contributions.
 
 ## License
 
