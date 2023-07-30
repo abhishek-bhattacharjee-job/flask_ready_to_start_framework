@@ -46,12 +46,10 @@ python app.py
 5. Open your web browser and access the application at `http://localhost:8000/`.
 
 
-## License
+## Contact
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code as you see fit.
+My Linkdin Profile : https://www.linkedin.com/in/abhishek-bhattacharjee-78873a4b/
 
-## Acknowledgments
+## Thanks
 
-We'd like to express our gratitude to the Flask community and all the developers who have contributed to the various libraries and tools that make this framework possible.
-
-If you have any questions or issues, please don't hesitate to create an issue on this repository. Happy coding!
+Thanks for using this code base, Hope this would help you.
